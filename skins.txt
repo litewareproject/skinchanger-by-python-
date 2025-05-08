@@ -1,0 +1,7 @@
+KnifeFang_Damascus = 240034;
+KnifeMantis_Eclipse = 240198;
+KarambitScratch = 72006;
+KarambitIceDragon = 72004;
+GlovesRetroWave = 3003;
+GlovesChampion = 3008;
+Gloves_Plague = 3026;

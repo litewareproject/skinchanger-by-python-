@@ -1,0 +1,4 @@
+P350_Vitrum = 240084;
+P90_Jungle = 43502;
+FnFAL_AcidCarbon = 44902;
+FnFal_RedHot = 220006;
